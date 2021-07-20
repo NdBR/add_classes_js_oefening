@@ -1,0 +1,29 @@
+body {
+    background-color:rgb(126, 190, 126);
+}
+
+p {
+    padding: 1em;
+    border: 3px solid black;
+    margin: 2em;
+}
+
+.bold {
+    font-weight:bold;
+}
+
+.big-font{
+    font-size: 3rem;
+}
+
+.error {
+    color: red;
+}
+
+button { 
+    font-size: 2rem;
+}
+
+.italic {
+    font-style: italic;
+}
